@@ -1,0 +1,27 @@
+{
+  "CurrentSelection":"A1",
+  "Buttons":{
+	  "A": "Georges Pierre Seurat",
+	  "B": "Paul Signac",
+	  "C": "Family",
+	  "D": "Nature",
+	  "E": "Miscellaneous"
+  },
+  "Files":[
+    "A1-sunday-afternoon-on-the-island-of-la-grande-jatte.jpg",
+    "A2-low-tide-at-grandcamp.jpg",
+    "A3-the-lighthouse-at-honfleur.jpg",
+    "A4-la-grande-jatte.jpg",
+    "A5-harbour-at-port-en-bessin-at-high-tide.jpg",
+    "A6-bathers-at-asnieres.jpg",
+    "B1-Place_des_Lices.jpg",
+    "B2-The_Bonaventure_Pine.jpg",
+    "B3-Golfe_Juan.jpg",
+    "B4-Grand_Canal_Venise.jpg",
+    "B5-The_Pine_Tree_at_Saint_Tropez.jpg",
+    "B6-Comblat-le-Chateau.jpg",
+    "B7-Road_to_Gennevilliers.jpg",
+    "B8-Au_temps_d_harmonie.jpg",
+    "B9-Portrait_de_Felix+Feneon.jpg"
+  ]
+}
